@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onifade Ifeoluwa IfeD2C
 - 👀 I’m interested in collaboration and gigs
-- 🌱 I’m currently learning mobile development (flutter)
+- 🌱 I’m currently learning mobile development (flutter) & Web App Development (HTML/CSS & Javascript)
 - 💞️ I’m looking to collaborate on open source design and development projects
 - 📫 How to reach me +2348145865720(WhatsApp)
 
